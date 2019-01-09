@@ -1,2 +1,7 @@
 theme: jekyll-theme-cayman
 title: [Narongsak Keawmanee]
+defaults:
+  - scope:
+      path: "statics/img"
+    values:
+      image: true
