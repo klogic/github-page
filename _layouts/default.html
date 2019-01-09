@@ -23,6 +23,12 @@
   <body>
 
     <header class="page-header" role="banner">
+      <div>
+          {% for image in site.static_files %}
+          {% assign myImages = image.path | remove : "/index.md" %}
+            <img src="{{ myImages}}" style='max-height:250px'>
+          {% endfor %}
+      </div>
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 > Software Engineer </h2>
       <h2 class="project-tagline"><i class="fas fa-envelope"></i> klogic@hotmail.co.th <i class="fab fa-linkedin"></i> klogic <i class="fas fa-map-marker-alt"></i> Bangkok Thailand </h2>
