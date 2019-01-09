@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/klogic/github-page/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## EXPERIENCE
+**Python & Javascript software engineer**  _Medvine Limited Oct 2017 - Ongoing_
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+• Develop new feature in ERP for support business growth.
+• Integrate with 3rd. logistics company, payment gateway etc.
+• Looking for best practices to improve project and represent it to our team.
+• Training and inspire member in team who encounter problems.
+• Planing for use techonology to automate buiness for reduce human error.
+• Optimize software architecture for project. make it faster, less misstake.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**PHP full stack developer**  _Waveon Apr 2016 - Sep 2017_
+```markdown
+• Involve with core business to build e-commerce for sale nutrition product in japan.
+• Integrate website with payment gateway like paypal, bank transfer etc.
+• Build website with MVC concept which is PHP standard for maintainable.
+• Build website from scratch with many project by wordpress.
+• Optimize SEO by multiple technique for increase ranking in google search.
+```
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/klogic/github-page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Customize ERP for online marketplace**  _Topvalue Corporate Apr Jul 2015 - Mar 2016_
+```markdown
+• Integrate ERP with ecommerce website - Magento.
+• Implement new feature for support core business.
+```
+## LIFE PHILOSOPHY
+```javascript
+  Make today better than yesterday.
+```
