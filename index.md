@@ -1,12 +1,13 @@
 ## EXPERIENCE
 
-**Python & Javascript software engineer** _Refinitiv Feb 2020 - Ongoing_
+**Software engineer** _Refinitiv Feb 2020 - Ongoing_
 
-````markdown
+```markdown
 • Create a high-standard desktop application with Electron. this application will be using by Refinitiv customers around the world.
 • Represent ideas and discussions with the team. proactive to bring best practices to adapt with the team.
 • Refactor/code review with a team that will make sure our code meets the standard follow by design pattern.
 • Testing & documentation application follow by requirement. ensure code can testable with a good test.
+```
 
 **Python & Javascript software engineer** _Medvine Limited Oct 2017 - Feb 2020_
 
@@ -18,7 +19,6 @@
 • Planing for use techonology to automate buiness for reduce human error.
 • Optimize software architecture for project. make it faster, less misstake.
 ```
-````
 
 **PHP full stack developer** _Waveon Apr 2016 - Sep 2017_
 
@@ -41,4 +41,8 @@
 
 ```javascript
   Make today better than yesterday.
+```
+
+```
+
 ```
